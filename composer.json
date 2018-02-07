@@ -1,5 +1,12 @@
 {
+    "name": "tianle/homepage",
     "require": {
         "monolog/monolog": "1.2.1"
-    }
+    },
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/tianles/test_composer.git"
+        }
+    ]
 }

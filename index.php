@@ -7,5 +7,13 @@
  */
 
 
-echo "你好，世界";
+class Home {
+    public function index () {
+        echo "欢迎进入我的世界";
+    }
+
+    public function pagesizes () {
+        echo "这里是我的列表页";
+    }
+}
 ?>
