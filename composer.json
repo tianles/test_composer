@@ -8,5 +8,6 @@
             "type": "git",
             "url": "https://github.com/tianles/test_composer.git"
         }
-    ]
+    ],
+    "version": "1.0.0"
 }
