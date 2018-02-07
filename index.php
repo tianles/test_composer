@@ -9,11 +9,11 @@
 
 class Home {
     public function index () {
-        echo "欢迎进入我的世界1113333";
+        echo "欢迎进入我的世界aaaa";
     }
 
     public function pagesizes () {
-        echo "这里是我的列表页2224444";
+        echo "这里是我的列表页bbbb";
     }
 }
 ?>
